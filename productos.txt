@@ -1,0 +1,6 @@
+1|base de maquillaje MAC|500|bases
+2|rubor MAC|250|rubores
+3|delineador de ojos MAC|170|delineadores
+4|sombra de ojos MAC|750|sombras para ojos
+5|corrector MAC|350|correctores
+6|fijador de maquillaje MAC|450|fijadores
